@@ -1,0 +1,13 @@
+/* <-- Medaia  --> */
+
+@media screen and (max-width:767px) {
+    .navbar>.container{
+      width: 100%;
+  }  
+  .navbar-nav .nav-link{
+  text-align: center;
+  }
+    .details .col-md-8{
+      margin-top: 24px;
+    }
+  }
